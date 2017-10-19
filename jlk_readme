@@ -1,0 +1,6 @@
+1、此仓库存放的文件是处理基因集生成簇的工具。来自于文章：https://www.researchgate.net/publication/264156295_Identification_and_assembly_of_genomes_and_genetic_elements_in_complex_metagenomic_samples_without_using_reference_genomes
+
+2、为什么将文章中提到的工具拷贝到自己的github仓库：
+   文章中提供链接已经失效，现有的工具（cc.bin）在使用时占内存较大，此仓库中工具是其原始版本。
+
+3、此仓库单纯存放工具使用。
