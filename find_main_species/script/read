@@ -1,1 +1,4 @@
-sad
+利用Gnerate_Dna_data_frame.sh找到该基因集中所有代表的cluster的代表种
+
+但是我们需要找的是组间差异的基因集中差异的代表种
+此时，需要run.sh
